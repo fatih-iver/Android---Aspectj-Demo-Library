@@ -1,0 +1,3 @@
+rootProject.name='Aspect Demo Library'
+include ':app'
+include ':libaspect'
